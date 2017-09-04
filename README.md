@@ -1,0 +1,2 @@
+# BloodCrownViewPagerTransformer
+这是关于viewpager 切换效果实现的smaple
